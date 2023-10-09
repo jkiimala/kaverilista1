@@ -1,0 +1,14 @@
+ul {
+    list-style-type: decimal; /* Poistetaan listan pallukat */
+    padding: 0; 
+    margin: 0; 
+    display: inline-block; 
+}
+
+
+li {
+    margin: 0;
+    padding: 0;
+    margin-left: 20px; 
+    font-weight:normal;
+}
